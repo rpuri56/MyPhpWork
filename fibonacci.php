@@ -15,6 +15,10 @@ Steps  Values
 9 		34
 *****/
 
+/**** 
+@param - $step
+output - step
+****/
 function calculateFibonacci( $step ) {
 	
 	$arrintValue[0] = 0;
