@@ -1,3 +1,4 @@
 <?php
-mysql_connect('localhost', 'root', 'admin');
+$conn = mysql_connect('localhost', 'root', 'admin');
+mysql_select_db( 'database1', $conn );
 ?>

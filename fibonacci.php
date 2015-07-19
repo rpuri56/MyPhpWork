@@ -21,6 +21,8 @@ Steps  Values
 output - result
 
 ****/
+
+
 function calculateFibonacci( $step ) {
 	
 	$arrintValue[0] = 0;
